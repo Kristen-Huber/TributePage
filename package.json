@@ -18,9 +18,8 @@
     "url": "https://github.com/kristen-huber/freecodecamp/tributepage"
   },
   "keywords": [
-    "node",
-    "heroku",
-    "express"
-  ],
-  "license": "Kristen Huber"
+    "freecodecamp",
+    "front-end",
+    "tribute page"
+  ]
 }
